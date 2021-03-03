@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+.announcement{
+    color: firebrick;
+    font-size: 30px
+}
+.page-header{
+    text-align: left
+}
+#map{
+     text-align: left
+}
+#details{
+    font-size: 20px;
+}
